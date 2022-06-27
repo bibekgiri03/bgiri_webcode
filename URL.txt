@@ -1,3 +1,0 @@
-Home Page URL: https://github.com/bibekgiri03/bgiri_webcode.git
-
-Clone URL: gh repo clone bibekgiri03/bgiri_webcode
